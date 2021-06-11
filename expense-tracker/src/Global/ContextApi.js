@@ -3,9 +3,9 @@ import Reducer from "./Reducer";
 
 const initialState = {
 	transactions: [
-		{ id: 1, Desc: "Project 2 complete", Amount: 500 },
-		{ id: 2, Desc: "Project 1 complete", Amount: 40 },
-		{ id: 3, Desc: "Grocery", Amount: -500 },
+		// { id: 1, Desc: "Project 2 complete", Amount: 500 },
+		// { id: 2, Desc: "Project 1 complete", Amount: 40 },
+		// { id: 3, Desc: "Grocery", Amount: -500 },
 	],
 };
 

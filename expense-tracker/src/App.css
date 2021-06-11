@@ -17,7 +17,14 @@ body {
 	height: 90%;
 
 	margin: 0 auto;
-	font-family: "Lato", sans-serif;
+}
+.inc {
+	/* background: rgb(193, 243, 193); */
+	padding: 10px;
+}
+.exp {
+	/* background: rgb(238, 49, 49); */
+	padding: 10px;
 }
 
 .container {
@@ -54,7 +61,7 @@ h4 {
 .detailsOfUsage {
 	background-color: #fff;
 	box-shadow: var(--box-shadow);
-	padding: 20px;
+
 	display: flex;
 	justify-content: space-between;
 	margin: 20px 0;
