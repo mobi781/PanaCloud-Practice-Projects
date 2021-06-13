@@ -1,0 +1,57 @@
+{
+  "Amazon Essentials": {
+    "name": "Casual Lace UP Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619487437-710lorq-ovl-ac-ul1500-1619487426.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.amazon.com/dp/B07PFLP2P2?linkCode=ogi"
+  },
+  "birkenstock": {
+    "name": "Arizona Essentials EVA Sandals",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619487596-61v4fyxq3el-ac-ul1500-1619487585.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.amazon.com/dp/B00LFCDH5C?linkCode=ogi"
+  },
+  "nordstrom.com": {
+    "name": "Old Skool Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619487193-a9e16e00-81be-4804-8d55-ab6d54291e93-1619487183.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.nordstrom.com/s/vans-old-skool-sneaker-unisex/2917734?siteid=tv2R4u9rImY-tf89RRqs7IiaNXoB8IUqAQ&utm_source=rakuten&utm_medium=affiliate&utm_campaign=tv2R4u9rImY&utm_content=1&utm_term=894996&utm_channel=low_nd_affiliates&sp_source=rakuten&sp_campaign=tv2R4u9rImY"
+  },
+  "reebok": {
+    "name": "Club C 85 Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619490096-81b-vy65ukl-ac-ul1500-1619490088.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.amazon.com/dp/B01H47DY9A?linkCode=ogi"
+  },
+  "converse": {
+    "name": "Chuck 70 Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619490241-61jwx-vdill-ac-ul1500-1619490233.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.amazon.com/dp/B077CCPYLG?linkCode=ogi"
+  },
+  "adidas originals": {
+    "name": "Stan Smith Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619490675-61ccehf7t9l-ac-ul1500-1619490666.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://www.amazon.com/dp/B087D8WL1Y?linkCode=ogi"
+  },
+  "nike": {
+    "name": "Killshot 2 Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619487787-40120f7d-eb3b-49ea-8f25-2bfc34ea2d5c-1619487778.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://go.redirectingat.com/?id=74968X1525077&xs=1&url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fnike-killshot-2-sneaker-men%2F3208294&sref=https%3A%2F%2Fwww.esquire.com%2Fstyle%2Fmens-fashion%2Fg1703%2Fsummer-shoes-2014%2F&xcust=%5Butm_source%7C%5Butm_campaign%7C%5Butm_medium%7C%5Bgclid%7C%5Bmsclkid%7C%5Bfbclid%7C%5Brefdomain%7Cwww.google.com%5Bcontent_id%7C42a03f7d-dcec-4065-b31e-1434b2f1c37f%5Bcontent_product_id%7C7aac31db-9a00-43ca-b05b-2bd23d472eda%5Bproduct_retailer_id%7C1fb7fa99-453e-4a73-9e89-6cd7f2c02948"
+  },
+    "allbirds": {
+    "name": "Tree Runners",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619487269-tr3mmst080-shoe-angle-global-mens-tree-runner-mist-white-b11537e4-5c45-4443-a1dd-c70c31779715-png-1619487255.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://go.redirectingat.com/?id=74968X1525077&xs=1&url=https%3A%2F%2Fwww.allbirds.com%2Fproducts%2Fmens-tree-runners&sref=https%3A%2F%2Fwww.esquire.com%2Fstyle%2Fmens-fashion%2Fg1703%2Fsummer-shoes-2014%2F&xcust=%5Butm_source%7C%5Butm_campaign%7C%5Butm_medium%7C%5Bgclid%7C%5Bmsclkid%7C%5Bfbclid%7C%5Brefdomain%7Cwww.google.com%5Bcontent_id%7C42a03f7d-dcec-4065-b31e-1434b2f1c37f%5Bcontent_product_id%7C9437074f-3bc9-4e22-8313-439c73b29773%5Bproduct_retailer_id%7C4195139f-50cb-4466-8dd6-e7e4b4247862"
+  },
+  "goodmanbrand": {
+    "name": "Edge Sneakers",
+    "img":
+      "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1619491784-e72ea222-0b0a-44e7-a9f3-99b719d29b74-1619491774.jpg?crop=1xw:1xh;center,top&resize=768:*",
+    "dUrl":"https://go.redirectingat.com/?id=74968X1525077&xs=1&url=https%3A%2F%2Fwww.nordstrom.com%2Fs%2Fgood-man-brand-edge-sneaker-men%2F5856783&sref=https%3A%2F%2Fwww.esquire.com%2Fstyle%2Fmens-fashion%2Fg1703%2Fsummer-shoes-2014%2F&xcust=%5Butm_source%7C%5Butm_campaign%7C%5Butm_medium%7C%5Bgclid%7C%5Bmsclkid%7C%5Bfbclid%7C%5Brefdomain%7Cwww.google.com%5Bcontent_id%7C42a03f7d-dcec-4065-b31e-1434b2f1c37f%5Bcontent_product_id%7C03318954-58e3-4030-914f-1806daa79963%5Bproduct_retailer_id%7Cb2b8a878-c326-456e-9267-033d2ce28c97"
+  }
+  
+}
