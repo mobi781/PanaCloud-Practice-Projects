@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 // import Products from "Products.js";
 function Header() {
 	return (
-		<nav className="navbar navbar-expand-lg navbar-light bg-light">
+		<nav className="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top">
 			<div className="container-fluid">
 				{/* <a className="navbar-brand" href="#">
 					ShoeStore
@@ -24,7 +24,7 @@ function Header() {
 					<span className="navbar-toggler-icon"></span>
 				</button>
 				<div className="collapse navbar-collapse" id="navbarNav">
-					<Link to="/products">Products</Link>
+					<Link to="products">Products</Link>
 					{/* <ul className="navbar-nav">
 						<li className="nav-item">
 							<a className="nav-link" href="#">
