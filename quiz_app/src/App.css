@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  /* background-color: aliceblue; */
 }
 
 .App-logo {
@@ -14,9 +13,6 @@
   }
 }
 
-body{
-  background-color: rgb(248, 249, 250);
-}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
